@@ -194,6 +194,7 @@ strong {
 }
 
 .animated-info {
+  font-size: 30px;
   display: inline-block;
   vertical-align: top;
   min-width: 250px;
